@@ -1,17 +1,12 @@
-var money = 10;
-var chickenGrill = 200;
-var shorma = 80;
-var rotiDalVaji = 40;
-var chaPorota = 20;
+let personalMoney = 500000;
+let dream = 1000000;
+let bestJob = 500000;
 
-if (chickenGrill < money) {
-    console.log("horre Today eatting Chiken Grilled");
-} else if (shorma < money) {
-    console.log("Here we go to eat Shorma");
-} else if (rotiDalVaji < money) {
-    console.log("Dont worry today we will eat only roti dalvaji");
-} else if (chaPorota < money) {
-    console.log("Cha porota is the best");
+
+if (personalMoney > dream) {
+    console.log("you full fill your dream");
+} else if (personalMoney < bestJob) {
+    console.log("you find your dream job");
 } else {
-    console.log("Lemon tea khawa lagbe");
+    console.log("you need hard work");
 }
