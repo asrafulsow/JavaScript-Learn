@@ -17,3 +17,17 @@ if (amarTaka > amarHeadPhonePrice) {
 } else {
     console.log("I cannot buy the Headphone");
 }
+
+var amarTaka = 90;
+var amarHeadPhonePrice = 80;
+
+if (amarTaka > amarHeadPhonePrice) {
+    console.log("I can buy the Headphone");
+}
+
+
+var school = "primary scholl";
+
+// 1: String; "atif, school"
+// 2: Number;: 20, 522;
+// 3: Boolean True and false 

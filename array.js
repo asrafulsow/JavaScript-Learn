@@ -1,13 +1,13 @@
-// const name = ["Asraful", "Sakib", "Babar", "Sahid", "Akib"];
+// const ame = ["Asraful", "Sakib", "Babar", "Sahid", "Akib"];
 
 
-// if (name[2] == "babar") {
-//     console.log("Your find the write name");
-// } else if (name[0] === "Asrafup") {
-//     console.log("congratulation you find it");
-// } else {
-//     console.log("Opps Search Someting new");
-// }
+if (name[2] == "babar") {
+    console.log("Your find the write name");
+} else if (name[0] === "Asrafup") {
+    console.log("congratulation you find it");
+} else {
+    console.log("Opps Search Someting new");
+}
 
 
 const name = ["asraful", "sakib", "babar", "sahid", "akib"];
