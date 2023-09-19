@@ -1,13 +1,13 @@
 
-// var myBudget = 80000;
+var myBudget = 80000;
 
-// var mobilePrice = 70000;
+var mobilePrice = 70000;
 
-// if (myBudget >= mobilePrice) {
-//     console.log("I can buy the I phone");
-// } else {
-//     console.log("You can not buy I phone");
-// }
+if (myBudget >= mobilePrice) {
+    console.log("I can buy the I phone");
+} else {
+    console.log("You can not buy I phone");
+}
 
 var myBudget = 8000;
 var mobilePrice = 70000;
