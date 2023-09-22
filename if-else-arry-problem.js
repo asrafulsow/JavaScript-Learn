@@ -43,3 +43,11 @@ if (myBudget < iphonePrice) {
 } else {
     console.log("Apnar bugdet incress korte hobe");
 }
+var iphonePrice = 70000;
+var myBudget = 100000;
+
+if (myBudget < iphonePrice) {
+    console.log("ami iphone kinte parbo");
+} else {
+    console.log("Apnar bugdet incress korte hobe");
+}
